@@ -1,2 +1,2 @@
-# lomplay-lp
+# lomplay
 This repository contains the architecture for the landing page of lomplay.
