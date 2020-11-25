@@ -1,2 +1,2 @@
 # lomplay
-This repository contains the architecture for the landing page of lomplay.
+This repository contains the entire architecture for the lomplay MVP.
